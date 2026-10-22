@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://formule7-sarcelles.vercel.app/sitemap.xml
